@@ -1,2 +1,2 @@
-# htpp://Uniplaygames.github.io
+# http://Uniplaygames.github.io
 WEBSITE
